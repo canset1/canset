@@ -485,6 +485,20 @@ imy {
   font-size: 15px;
 }
 
+.copy3-notification3 {
+  color: #ffffff;
+  background: #00a008;
+  padding: 5px;
+  border-radius: 20px;
+  position: relative;
+  top: -30%;
+  left: 25%;
+  width: 50%;
+  display: none;
+  text-align: center;
+  font-size: 15px;
+}
+
 * {
   box-sizing: border-box;
 }
