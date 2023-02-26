@@ -244,7 +244,12 @@ body {
 }
 
 .shake1 {
-  animation: shake-animation 1.72s ease infinite;
+  animation: shake-animation 1.92s ease infinite;
+  transform-origin: 50% 50%;
+}
+
+.shake2 {
+  animation: shake-animation 1.12s ease infinite;
   transform-origin: 50% 50%;
 }
 
